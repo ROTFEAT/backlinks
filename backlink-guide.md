@@ -49,9 +49,9 @@
 
 | 方法 | 入口 | 链接属性 | SEO价值 |
 |------|------|----------|---------|
-| Profile Bio | Settings → Bio 字段 | **Dofollow** | 中 |
-| **文章内链接** | **Write → 选中文字 → Ctrl+K → 粘贴 URL** | **Dofollow** | **高** |
-| Publication 导航 | 创建 Publication → 设置导航链接 | **Dofollow** | 中 |
+| Profile Bio | Settings → Bio 字段 | Nofollow | 中 |
+| 文章内链接 | Write → 选中文字 → Ctrl+K → 粘贴 URL | Nofollow (`rel="noopener ugc nofollow"`) | 中 |
+| Publication 导航 | 创建 Publication → 设置导航链接 | Nofollow | 中 |
 | 评论区链接 | 文章评论 | Nofollow | 低 |
 
 ### 操作步骤（推荐：文章内链接）
@@ -69,7 +69,9 @@
 
 ### Tips
 
-- Medium 文章内链接是 **dofollow**（`rel="noopener follow"`），极有价值
+- ⚠️ **Medium 所有外链均为 Nofollow**（`rel="noopener ugc nofollow"`），经多个权威来源确认
+- 之前部分 SEO 博客声称 Medium 链接是 dofollow，这是过时/错误信息
+- 虽然 Nofollow，但 DA 95 的品牌信号和引荐流量仍有价值
 - 每篇文章只放 1-2 个外链，不要堆砌
 - 写有独立价值的内容（80% 有用内容 + 20% 引导链接）
 - 不要和主站发完全相同的内容（重复内容问题）
@@ -126,10 +128,11 @@
 | 方法 | 入口 | 链接属性 | SEO价值 |
 |------|------|----------|---------|
 | 个人资料链接 | blogger.com/profile/edit → Homepage URL | Nofollow | 低 |
-| 博客文章正文 | 新帖子 → 选中文字 → 链接图标 | Nofollow（默认） | 中 |
-| HTML 编辑模式 | 文章编辑器 → 切换 HTML 视图 → 手写 `<a href>` | **可能 Dofollow** | 中-高 |
-| 侧边栏小工具 | 布局 → 添加小工具 → HTML/JavaScript | **可能 Dofollow** | 低-中 |
-| 博客模板 | 主题 → 编辑 HTML → 直接改模板源码 | **可能 Dofollow** | 中 |
+| **博客文章正文** | **新帖子 → 选中文字 → 链接图标** | **Dofollow（默认不加nofollow）** | **中-高** |
+| HTML 编辑模式 | 文章编辑器 → 切换 HTML 视图 → 手写 `<a href>` | **Dofollow** | **中-高** |
+| 侧边栏小工具 | 布局 → 添加小工具 → HTML/JavaScript | **Dofollow** | 中 |
+| 博客模板 | 主题 → 编辑 HTML → 直接改模板源码 | **Dofollow** | 中 |
+| 评论链接 | 文章评论区 | Nofollow | 低 |
 
 ### 操作步骤
 
@@ -145,7 +148,10 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 
 ### Tips
 
+- ⚠️ **修正：文章正文链接默认 Dofollow**（一手验证确认，Blogger 编辑器提供 nofollow 选项但默认不勾选）
+- **评论链接仍为 Nofollow**
 - Google 自家平台，收录速度快
+- Blogger 编辑器有"添加 nofollow"的勾选框，不勾选则为 Dofollow
 - 一个 Google 账号不要创建太多博客（反垃圾检测）
 - 给 Blogspot 博客本身也建几条外链（分层外链策略）
 - 持续更新（每月 1-2 篇），避免被判定为废弃博客
@@ -161,10 +167,10 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 | 方法 | 入口 | 链接属性 | SEO价值 |
 |------|------|----------|---------|
 | 个人资料链接 | wordpress.com/me → Site URL 字段 | Nofollow | 低 |
-| 博客文章链接 | wordpress.com/post → 正文插入链接 | Nofollow | 中 |
-| 侧边栏 Widget | 外观 → 自定义 → Widgets → Custom HTML | Nofollow | 低 |
+| **博客文章链接** | **wordpress.com/post → 正文插入链接** | **Dofollow**（默认不加nofollow） | **中-高** |
+| 侧边栏 Widget | 外观 → 自定义 → Widgets → Custom HTML | Dofollow（HTML小工具） | 低-中 |
 | 评论链接 | 他人博客评论 → Website 字段 | Nofollow | 低 |
-| 页面链接 | wordpress.com/page → 新建页面 → 插入链接 | Nofollow | 中 |
+| 页面链接 | wordpress.com/page → 新建页面 → 插入链接 | **Dofollow**（同文章链接） | **中-高** |
 
 ### 操作步骤
 
@@ -175,11 +181,12 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 
 ### Tips
 
-- **所有链接均为 Nofollow**（WordPress.com 自 2005 年起全面 nofollow）
-- 但 DA 93+ 的 nofollow 链接仍有品牌信号价值
+- ⚠️ **修正：文章/页面正文中的链接默认 Dofollow**（WordPress 核心不自动加 nofollow）
+- 一手验证：官方博客和托管博客的文章外链均为 `rel="noopener noreferrer"`（无 nofollow）
+- **评论链接仍为 Nofollow**
+- 之前说"全部 Nofollow"是错误的，仅评论和部分特殊链接是 Nofollow
+- DA 93+，文章链接 Dofollow，实际 SEO 价值比之前评估的更高
 - 文章要有价值（300+ 字），否则可能被判定 spam 删除
-- 如果想要 dofollow，Medium 是更好的选择
-- 作为外链组合的一环增加链接多样性
 
 ---
 
@@ -286,7 +293,8 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 
 ### ⚠️ 链接属性更正
 
-原文档标注 Flickr 为 **Dofollow**，经研究验证实际为 **Nofollow**。
+原文档标注 Flickr 为 **Dofollow**，经**一手验证确认**实际为 **Nofollow**。
+验证方法：`curl https://www.flickr.com/people/nasahqphoto/` → 所有外链均含 `rel="noreferrer nofollow"`。
 
 ### 可用方法
 
@@ -353,10 +361,10 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 | 网站 | DA | 免费 | 最佳链接属性 | 操作难度 | 时间投入 | 推荐优先级 |
 |------|-----|------|-------------|---------|---------|-----------|
 | **GitHub Pages** | 100 | ✅ | **Dofollow** | 中 | 30min | ⭐⭐⭐⭐⭐ |
-| **Medium 文章** | 95 | ✅ | **Dofollow** | 中 | 30min/篇 | ⭐⭐⭐⭐⭐ |
+| ~~Medium 文章~~ | 95 | ✅ | ~~Dofollow~~ **Nofollow**（已修正） | 中 | 30min/篇 | ⭐⭐⭐ |
 | **Tumblr 主题HTML** | 90+ | ✅ | **Dofollow** | 中 | 20min | ⭐⭐⭐⭐ |
-| Blogger HTML模式 | 高 | ✅ | 可能 Dofollow | 低 | 15min | ⭐⭐⭐ |
-| WordPress.com | 93 | ✅ | Nofollow | 低 | 15min | ⭐⭐⭐ |
+| **Blogger 文章** | 高 | ✅ | **Dofollow**（默认，已修正） | 低 | 15min | ⭐⭐⭐⭐ |
+| **WordPress.com 文章** | 93 | ✅ | **Dofollow**（文章/页面链接，已修正） | 低 | 15min | ⭐⭐⭐⭐ |
 | Behance | 90+ | ✅ | Nofollow | 低 | 15min | ⭐⭐⭐ |
 | Issuu | 94 | ✅ | Nofollow | 低 | 10min | ⭐⭐⭐ |
 | About.me | 90+ | ✅ | Nofollow | 极低 | 5min | ⭐⭐ |
