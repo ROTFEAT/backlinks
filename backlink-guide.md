@@ -857,7 +857,7 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 
 ### 操作步骤
 
-1. **创建产品资料页**：从 G2 的 Create a Profile 入口提交产品/服务申请表
+1. **创建产品资料页**：访问 https://www.g2.com/add_product_requests/new 提交产品/服务申请表
 2. **等待初审**：提交后进入 "conditionally approved" 状态，G2 研究团队核验产品并归类，约 **3-5 个工作日**
 3. **认领 Profile**：资料页上线后，进入 my.G2 认领该 listing，G2 团队做最终审核，约 **1-3 个工作日**
 4. **完善产品信息**：
