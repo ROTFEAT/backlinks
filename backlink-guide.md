@@ -32492,3 +32492,181 @@ URL 缩短服务的 SEO 价值**非常有限**。Google 明确表示能识别短
 - 免费博客平台（不需要 WordPress），Dofollow 链接
 - 可快速创建包含外链的博客页面
 - 适合批量内容营销
+
+
+---
+
+# 附录：WebSearch 一手验证结果（2026-03-25）
+
+> 以下结果来自 8 个并行 agent 对 148 个目录类网站的逐个 WebSearch 验证。
+> 每个网站都通过搜索引擎查找了真实的提交入口 URL，并附带来源链接。
+
+## 已关闭/不可用的网站（从外链计划中移除）
+
+| 网站 | 状态 | 说明 |
+|------|------|------|
+| **ReleaseWire** (releasewire.com) | 2024年2月关闭 | 运营20年后终止，COVID后业务下滑 |
+| **SBWire** (sbwire.com) | 2024年2月关闭 | ReleaseWire子品牌，同时关闭 |
+| **Vingle** (vingle.net) | 已关闭 | 返回502错误，公司已倒闭 |
+| **Makerlog** (getmakerlog.com) | 已关闭 | 301重定向至创始人个人博客 |
+| **Prefundia** (prefundia.com) | 已关闭 | Deadpooled，网站无法访问 |
+| **StartupLister** (startuplister.com) | 已关闭 | 域名重定向至bubble.io错误页 |
+| **Launched.io** (launched.io) | 已关闭 | 不再接受新提交 |
+| **Betafy** (betafy.co) | 已关闭 | Crunchbase标记永久关闭 |
+| **GrowingPage** (growingpage.com) | 已关闭 | 网站无法访问，无近期活动 |
+| **Bewertet.de** (bewertet.de) | 已关闭 | 推荐迁移至ProvenExpert |
+| **AppsZoom** (appszoom.com) | SSL过期 | 公司已不活跃 |
+| **FeedMyApp** (feedmyapp.com) | 522错误 | 服务器无法连接 |
+
+## 已更名/重定向的网站
+
+| 原域名 | 新域名 | 说明 |
+|--------|--------|------|
+| betapage.co | **pitchwall.co** | 更名为PitchWall，定位AI工具目录 |
+| itcentralstation.com | **peerspot.com** | 2022年更名为PeerSpot |
+| sitejabber.com | **SmartCustomer** | 品牌升级 |
+| resellerratings.com | **Shopperstream** | 品牌升级 |
+
+## 已验证的真实提交入口 URL
+
+### Product Launch 产品发布类（39个验证）
+
+| 网站 | 提交入口 | 费用 | 链接属性 | 状态 |
+|------|----------|------|----------|------|
+| Hacker News | https://news.ycombinator.com/submit | 免费 | Nofollow→Dofollow | 在线 |
+| Product Hunt | https://www.producthunt.com/launch | 免费 | **Dofollow** | 在线 |
+| GetApp | https://www.gartner.com/en/digital-markets/profiles | 免费 | Nofollow | 在线 |
+| StackShare | https://stackshare.io/vendors | 免费 | Nofollow | 在线 |
+| AlternativeTo | 登录→用户图标→Suggest new application | 免费 | Nofollow | 在线 |
+| EU-Startups | https://www.eu-startups.com/directory/ → Add Listing | 免费 | **Dofollow** | 在线 |
+| BetaList | https://betalist.com/submit | 免费/$129-199 | **Dofollow** | 在线 |
+| SaaSworthy | https://www.saasworthy.com/offerings | 免费 | Nofollow | 在线 |
+| Startup Stash | https://startupstash.com/add-listing/ | 免费 | **Dofollow** (DR68) | 在线 |
+| SideProjectors | https://www.sideprojectors.com/ → Submit a Project | 免费 | **Dofollow** (DR69) | 在线 |
+| Startup Ranking | https://www.startupranking.com/ → 创建profile | 免费/$99加速 | Nofollow | 在线 |
+| SaaSHub | https://www.saashub.com/services/submit | 免费 | **Dofollow** (DR77) | 在线 |
+| PitchWall (原BetaPage) | https://pitchwall.co/submit | 免费/$99 | Nofollow | 在线 |
+| StartupBase | https://startupbase.io/submit | 免费 | Dofollow | 在线 |
+| Betabound | https://betabound.com/announce/ | 免费 | Nofollow | 在线 |
+| Launching Next | https://www.launchingnext.com/submit/ | 免费/$99 | **Dofollow** (DR51) | 在线 |
+| Startup Buffer | https://startupbuffer.com/site/submit | 免费 | **Dofollow** | 在线 |
+| Startup Collections | https://startupcollections.com/submit-product/ | 免费 | Nofollow | 在线 |
+| StartupInspire | https://www.startupinspire.com/signup | 免费/€19/€49 | Nofollow | 在线 |
+| SideProjects.net | https://www.sideprojects.net/submit | 免费 | Nofollow | 在线 |
+| **PromoteProject** | **https://www.promoteproject.com/** | **免费** | **Dofollow** | 在线 |
+| **BigStartups** | **https://bigstartups.co/overview/submit-startup** | **免费** | **Dofollow (DR45)** | 在线 |
+| **Owwly** | **https://owwly.com/ → Promote** | **免费** | **Dofollow (DR22)** | 在线 |
+| TrendyStartups | https://trendystartups.com/register | 免费 | Nofollow | 在线 |
+| AppRater | https://apprater.net/add/ | 免费 | Nofollow | 在线 |
+| ToolFinder | https://toolfinder.co/contact | 免费 | Nofollow | 在线 |
+| AllStartups | https://allstartups.info/Startups/Submit | 免费 | Nofollow | SSL过期⚠️ |
+| Get Worm | https://getworm.com/submit-startup | 免费 | 未知 | 存疑 |
+
+### Review Sites 点评类（42个验证）
+
+| 网站 | 提交入口 | 费用 | 链接属性 |
+|------|----------|------|----------|
+| Yelp | https://biz.yelp.com/signup_business/new | 免费 | Nofollow |
+| TripAdvisor | https://www.tripadvisor.com/CreateListing.html | 免费 | Nofollow |
+| Trustpilot | https://business.trustpilot.com | 免费/$259月起 | Nofollow |
+| Angi | angi.com → Join Our Pro Network | 免费/$200月起 | Nofollow |
+| ProvenExpert | https://www.provenexpert.com/en-us/register/ | 免费 | **Dofollow*** |
+| G2 | https://www.g2.com/products/new | 免费/$299月起 | Nofollow |
+| Clutch | https://clutch.co/get-listed | 免费 | Nofollow(官方确认) |
+| Capterra | https://www.capterra.com/vendors/sign-up | 免费 | Nofollow |
+| Software Advice | 同Capterra(Gartner统一) | 免费 | Nofollow |
+| FreeIndex | https://www.freeindex.co.uk/signup.htm | 免费 | **Dofollow*** |
+| SiteJabber | https://biz.sitejabber.com/register | 免费 | Nofollow |
+| TrustRadius | https://solutions.trustradius.com/claim-your-profile/ | 免费 | Nofollow |
+| ProductReview.au | https://www.productreview.com.au/for-businesses | 免费 | Nofollow |
+| ResellerRatings | https://business.resellerratings.com/claim-your-profile | 免费 | Nofollow |
+| GoodFirms | https://www.goodfirms.co/get-listed | 免费 | Nofollow(DR85) |
+| Avis-Site | https://www.avis-site.com/ | €3 | **Dofollow** |
+| Webwiki系列(10版本) | webwiki.xx/info/add-website.html | 免费 | Nofollow(DR78) |
+| Serchen | https://www.serchen.com/get-listed/ | 免费 | Nofollow |
+| PeerSpot(原ITCentral) | https://www.peerspot.com/ | 免费写评论 | Nofollow |
+| Slant | slant.co → I Recommend / Add Option | 免费 | Nofollow |
+| HappyCow | https://www.happycow.net/add-restaurant | 免费 | Nofollow |
+| MouthShut | https://www.mouthshut.com/review/prewrite.php | 免费 | Nofollow |
+| Localsearch.au | https://business.localsearch.com.au/add-a-business-to-localsearch-online/ | 免费 | Nofollow |
+
+### Crowdfunding 众筹类（6个验证）
+
+| 网站 | 提交入口 | 费用 | 链接属性 |
+|------|----------|------|----------|
+| **Kickstarter** | **https://www.kickstarter.com/start** | 成功收8-10% | **Dofollow (DR92)** |
+| Indiegogo | https://www.indiegogo.com/start-a-campaign | 成功收~8% | Nofollow |
+| **Ulule** | **https://www.ulule.com → Create project** | 成功收~8% | **Dofollow (DR84)** |
+| Seed&Spark | https://seedandspark.com/how-to | 零平台费 | Nofollow |
+| Startupxplore | https://startupxplore.com/en/register/index | Profile免费 | Dofollow |
+| Republic | https://republic.com/apply/new | 成功收6-7% | Dofollow |
+
+### Deals 优惠类（10个验证）
+
+| 网站 | 提交入口 | 费用 | 链接属性 |
+|------|----------|------|----------|
+| Groupon | https://www.groupon.com/merchant | 按成交~50% | Nofollow |
+| AppSumo | https://sell.appsumo.com/ | 零前期/抽佣 | Nofollow |
+| Slickdeals | 登录→Post a Deal | 免费 | Nofollow |
+| StackSocial | https://partners.stackcommerce.com/ | 佣金制 | Nofollow |
+| Dealspotr | 首页→Post a Deal | 免费 | Dofollow(Profile) |
+| RedFlagDeals | https://forums.redflagdeals.com/hot-deals-f9/ → Post New Thread | 免费 | **Nofollow**（修正：之前错标Dofollow） |
+| PitchGround | https://partners.pitchground.com/ | 零前期/抽佣 | Dofollow |
+| Dealify | https://dealify.com/pages/run-a-deal | 收入分成 | Dofollow |
+| MightyDeals | deals@mightydeals.com | 佣金制 | Nofollow |
+| **DealFuel** | **https://www.dealfuel.com/submit-deal/** | 零前期/75:25分成 | **Dofollow** |
+
+### Press Release 新闻稿类（22个验证）
+
+| 网站 | 提交入口 | 费用 | 适合外链? |
+|------|----------|------|-----------|
+| OpenPR | https://www.openpr.com/news/submit.html | 免费(1篇/30天) | 推荐 |
+| PRSync | http://prsync.com/submit-press-release/ | 完全免费 | 推荐 |
+| Express PR | https://express-press-release.net/free/ | 免费 | 推荐 |
+| 1888 PR | https://www.1888pressrelease.com/login.html | 免费/$15起 | 推荐 |
+| EIN Presswire | https://www.einpresswire.com/submit-free-press-release | 免费/$99.95 | 推荐 |
+| PR.com | https://www.pr.com/press-release-pricing | 免费/$60起 | 可用 |
+| OnlinePRNews | https://www.onlineprnews.com/content/submit-free-press-release | 免费(90天) | 可用 |
+| Pressat | https://pressat.co.uk/free-pr/ | 免费/£110起 | 可用(UK) |
+| Pressemeddelelse | https://pressemeddelelse.dk/ | 免费/195DKK | 地区性 |
+| MyPR.bg | https://www.mypr.bg/ | 免费 | 地区性 |
+| PRWeb | https://www.prweb.com/pricing/ | $110-455/篇 | 付费 |
+| 24-7 PR | https://www.24-7pressrelease.com/pricing | $29-479/篇 | 付费 |
+| NewswireJet | https://newswirejet.com/press-release-distribution/ | $59-649/篇 | 付费 |
+| DINO | https://www.dino.com.br | $27起 | 地区性(巴西) |
+| PR Fire | https://www.prfire.co.uk/pricing/ | £95起 | 付费(UK) |
+| Prowly | https://prowly.com/pricing/ | $258/月起 | 不适合(PR软件) |
+| Vuelio | https://www.vuelio.com/uk/pricing/ | £3000+/年 | 不适合(企业级) |
+| Roxhill | https://roxhillmedia.com/pricing/ | 定制报价 | 不适合(PR工具) |
+| Press Hunt | https://presshunt.co/pricing | $19/月起 | 不适合(记者DB) |
+
+### Article Submission 文章投稿类（20个验证）
+
+| 网站 | 提交入口 | 链接属性 | 推荐? |
+|------|----------|----------|-------|
+| Storeboard | https://www.storeboard.com/sign-up | **Dofollow** (DA54) | 推荐 |
+| SooperArticles | https://www.sooperarticles.com/submit-article.html | **Dofollow** | 推荐 |
+| Launchora | https://www.launchora.com/ | **Dofollow** (DR73) | 推荐 |
+| ArticleTed | https://www.articleted.com/ | **Dofollow** | 推荐 |
+| Telescope.ac | https://telescope.ac/ | Nofollow | 一般 |
+| PR3/4/5/7-articles系列 | 各站首页注册 | Dofollow | ⚠️ PBN风险 |
+| Gappoo/Studio9xb/KraftLoft系列 | 各站首页注册 | Dofollow | ⚠️ PBN风险，DA极低 |
+| BloggersRoad/Shopolop/AdvertiseEra | 各站首页注册 | Dofollow | ⚠️ DA低 |
+| Tripod | 非文章投稿站 | N/A | 移除 |
+| Vingle | 已关闭(502) | N/A | 移除 |
+
+### Infographic 信息图类（9个验证）
+
+| 网站 | 提交入口 | 费用 | 链接属性 |
+|------|----------|------|----------|
+| SlideShare | https://www.slideshare.net/upload | 免费 | **Nofollow**（修正：之前错标Dofollow） |
+| Infographic Journal | https://infographicjournal.com/submit-infographics/ | 免费/$25/$75 | **Dofollow** (DA55) |
+| Infographic Bee | https://www.infographicbee.com/submit-infographics/ | 免费/$14.95 | 未确认 |
+| Infographics Archive | https://www.infographicsarchive.com/submit-infographics/ | 免费/$32/$59 | 未确认 |
+| Infographic Reviews | https://infographicreviews.com/submit-your-inforgraphic/ | 免费 | Dofollow(DA36) |
+| Cool Infographics | https://coolinfographics.com/contact | 免费 | Nofollow |
+| Gifographics | https://gifographics.co/submit/ | 免费 | Nofollow(明确标注) |
+| Visual.ly | 返回403 | N/A | 不可用 |
+| Daily Infographic | https://dailyinfographic.com/submit | 免费 | SSL过期⚠️ |
+
+> \* 标注 Dofollow* 的建议用浏览器 Inspect Element 实际验证，链接属性可能随时变更。
