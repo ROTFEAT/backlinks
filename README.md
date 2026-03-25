@@ -815,106 +815,106 @@
 | https://acousticguitarforum.com/forums/index.php [📖](backlink-guide.md#808-acoustic-guitar-forum-acousticguitarforumcomforumsindexphp) | Music | Profile link | Dofollow | Y |
 | https://fotografie.at/ [📖](backlink-guide.md#809-fotografieat-fotografieat) | Photography | Profile link | Dofollow | Y |
 | https://sffchronicles.com/ [📖](backlink-guide.md#810-sff-chronicles-sffchroniclescom) | Books | Profile link | Dofollow | Y |
-| https://opendiary.com/ | General | Profile link | Dofollow | Y |
-| https://7wdata.be/ | General | Profile link | Dofollow | Y |
-| https://media.discovery-japan.me/ | General | Profile link | Dofollow | Y |
-| https://forum.proguitar.com/ | Music | Profile link | Dofollow | Y |
-| https://cbseguess.com/ | Education | Profile link | Nofollow | Y |
-| https://pedelecforum.de/forum/index.php | Sports | Profile link | Nofollow | Y |
-| https://lawnsite.com/ | General | Profile link | Nofollow | Y |
-| https://youlookfab.com/welookfab/ | Fashion | Profile link | Dofollow | Y |
-| https://woodworkforums.com/ | General | Profile link | Nofollow | Y |
-| https://forums.fatsharkgames.com/ | Gaming | Profile link | Nofollow | Y |
-| https://designershitdocumentary.com/community/ | Medicine | Profile link | Nofollow | Y |
-| https://completed.com/ | General | Profile link | Nofollow | Y |
-| https://helpfulgardener.com/forum/ | Gardening | Profile link | Dofollow | Y |
-| https://forums.musicplayer.com/ | Music | Profile link | Nofollow | Y |
-| https://pink-jobs.com/ | General | Profile link | Dofollow | Y |
-| https://master-land.net/ | Developers | Profile link | Nofollow | Y |
-| https://fediverse.blog/ | General | Profile link | Dofollow | Y |
-| https://diychatroom.com/ | Construction | Profile link | Nofollow | Y |
-| https://ifish.net/ | Fishing | Profile link | Dofollow | Y |
-| https://forum.lexulous.com/ | Gaming | Profile link | Nofollow | Y |
-| https://quesanswer.com/ | General | Profile link | Dofollow | Y |
-| https://digitalhome.ca/ | Consumer Electronic | Profile link | Nofollow | Y |
-| https://ruqqus.com/ | General | Profile link | Dofollow | Y |
-| https://hobbytalk.com/ | General | Profile link | Nofollow | Y |
-| https://chazhound.com/index.php | Pet | Profile link | Dofollow | Y |
-| https://techist.com/forums/ | Technology | Profile link | Nofollow | Y |
-| http://unicyclist.com/ | General | Profile link | Nofollow | Y |
-| https://small-business-forum.net/ | Business | Profile link | Nofollow | Y |
-| https://filesharingtalk.com/forum.php | General | Profile link | Dofollow | Y |
-| http://gostartups.in/ | General | Profile link | Dofollow | Y |
-| https://mytradezone.com/ | Finance | Profile link | Dofollow | Y |
-| https://homeone.com.au/ | Architecture | Profile link | Dofollow | Y |
-| https://republic.com/ | General | Profile link | Nofollow | Y |
-| https://worldseafishing.com/ | Fishing | Profile link | Nofollow | Y |
-| https://thegreatapps.com/ | Mobile App | Profile link | Nofollow | Y |
-| https://solaceandthecity.com/community/ | General | Profile link | Nofollow | Y |
-| http://dreevoo.com/ | General | Profile link | Dofollow | Y |
-| https://den.yt/ | General | Profile link | Nofollow | Y |
-| http://arcforums.com/forums/air/index.php | General | Profile link | Dofollow | Y |
-| https://retrobike.co.uk/forums/ | Sports | Profile link | Nofollow | Y |
-| https://painttalk.com/ | Art | Profile link | Dofollow | Y |
-| https://rpgwatch.com/ | Gaming | Profile link | Nofollow | Y |
-| https://classicalguitardelcamp.com/index.php | Music | Profile link | Dofollow | Y |
-| https://historum.com/ | Education | Profile link | Dofollow | Y |
-| https://lamborghini-talk.com/ | Automobile | Profile link | Nofollow | Y |
-| https://groupdiy.com/ | Music | Profile link | Nofollow | Y |
-| http://forum.cad.pl/ | Art | Profile link | Nofollow | Y |
-| https://forum.esk8.news/ | General | Profile link | Nofollow | Y |
-| https://community.guitartalk.co.za/ | Music | Profile link | Nofollow | Y |
-| http://www.mrleffsclass.com/forum/member.php | Education | Profile link | Dofollow | Y |
-| http://geekgirlsnightout.com/ | General | Profile link | Nofollow | Y |
-| https://miastogier.pl/ | Gaming | Profile link | Nofollow | Y |
-| http://soccergaming.com/index.php | Gaming | Profile link | Nofollow | Y |
-| https://forums.homecomingservers.com/ | Gaming | Profile link | Nofollow | Y |
-| http://modelcarsmag.com/forums/ | Scale Model | Profile link | Dofollow | Y |
-| https://clubsnap.com/ | Photography | Profile link | Dofollow | Y |
-| https://answersmode.com/ | General | Profile link | Nofollow | Y |
-| https://forum.bassbuzz.com/ | Music | Profile link | Dofollow | Y |
-| https://jeparticipe.ville-montlouis-loire.fr/ | General | Profile link | Dofollow | Y |
-| https://forum.mp3store.pl/ | Music | Profile link | Nofollow | Y |
-| https://forum.kvinneguiden.no/ | General | Profile link | Nofollow | Y |
-| https://math10.com/forum/ | Science | Profile link | Nofollow | Y |
-| https://speakev.com/ | Automobile | Profile link | Nofollow | Y |
-| https://respuestas.trabber.com/ | Travel | Profile link | Nofollow | Y |
-| https://qutee.com/ | General | Profile link | Nofollow | Y |
-| https://goodnightjournal.com/ | General | Profile link | Dofollow | Y |
-| https://openphotographyforums.com/forums/ | Photography | Profile link | Nofollow | Y |
-| https://admin-talk.com/ | Business | Profile link | Dofollow | Y |
-| https://mixwebup.com/ | General | Profile link | Nofollow | Y |
-| http://www.kiripo.com/forum/index.php | General | Profile link | Dofollow | Y |
-| https://video.antopie.org/ | General | Profile link | Dofollow | Y |
-| https://diymobileaudio.com/ | Automobile | Profile link | Nofollow | Y |
-| https://talkphotography.co.uk/ | Photography | Profile link | Dofollow | Y |
-| https://shuttertalk.com/forums/ | Photography | Profile link | Dofollow | Y |
-| https://jobs.windomnews.com/ | General | Profile link | Dofollow | Y |
-| https://jobs.calgeo.org/ | General | Profile link | Dofollow | Y |
-| http://customerpolicedepartment.com/ | General | Profile link | Nofollow | Y |
-| https://pinoygamer.ph/ | Gaming | Profile link | Nofollow | Y |
-| https://forum.leasehackr.com/ | Automobile | Profile link | Nofollow | Y |
-| https://vault.mle.party/ | General | Profile link | Dofollow | Y |
-| https://germancarforum.com/ | Automobile | Profile link | Nofollow | Y |
-| https://ps5forum.com/ | Gaming | Profile link | Dofollow | Y |
-| https://community.forumpromotion.net/ | Marketing | Profile link | Nofollow | Y |
-| https://video.hardlimit.com/ | Gaming | Profile link | Dofollow | Y |
-| https://together.lovefromyours.com/ | General | Profile link | Nofollow | Y |
-| https://letsdiskuss.com/ | General | Profile link | Nofollow | Y |
-| https://chemicalforums.com/ | Science | Profile link | Dofollow | Y |
-| https://themoneyshed.co.uk/ | Business | Profile link | Nofollow | Y |
-| https://businessforum.uk/ | Business | Profile link | Nofollow | Y |
-| http://evosolution.net/Forum/member.php | General | Profile link | Dofollow | Y |
-| https://video.omniatv.com/ | General | Profile link | Dofollow | Y |
-| https://community.benetalk.com/ | General | Profile link | Nofollow | Y |
-| https://mmorpg.org.pl/ | Gaming | Profile link | Nofollow | Y |
-| https://routerforums.com/ | General | Profile link | Nofollow | Y |
-| https://krita-artists.org/ | Art | Profile link | Nofollow | Y |
-| https://martialtalk.com/ | Sports | Profile link | Nofollow | Y |
-| https://getdpi.com/forum/index.php | Photography | Profile link | Nofollow | Y |
-| https://tube.p2p.legal/ | General | Profile link | Dofollow | Y |
-| https://bizwarriors.com/ | Business | Profile link | Nofollow | Y |
-| https://youdontneedwp.com/ | General | Profile link | Dofollow | Y |
+| https://opendiary.com/ [📖](backlink-guide.md#811-open-diary-opendiarycom) | General | Profile link | Dofollow | Y |
+| https://7wdata.be/ [📖](backlink-guide.md#812-7wdata-7wdatabe) | General | Profile link | Dofollow | Y |
+| https://media.discovery-japan.me/ [📖](backlink-guide.md#813-discovery-japan-media-mediadiscovery-japanme) | General | Profile link | Dofollow | Y |
+| https://forum.proguitar.com/ [📖](backlink-guide.md#814-proguitar-forum-forumproguitarcom) | Music | Profile link | Dofollow | Y |
+| https://cbseguess.com/ [📖](backlink-guide.md#815-cbse-guess-cbseguesscom) | Education | Profile link | Nofollow | Y |
+| https://pedelecforum.de/forum/index.php [📖](backlink-guide.md#816-pedelec-forum-pedelecforumdeforumindexphp) | Sports | Profile link | Nofollow | Y |
+| https://lawnsite.com/ [📖](backlink-guide.md#817-lawnsite-lawnsitecom) | General | Profile link | Nofollow | Y |
+| https://youlookfab.com/welookfab/ [📖](backlink-guide.md#818-you-look-fab-youlookfabcomwelookfab) | Fashion | Profile link | Dofollow | Y |
+| https://woodworkforums.com/ [📖](backlink-guide.md#819-woodwork-forums-woodworkforumscom) | General | Profile link | Nofollow | Y |
+| https://forums.fatsharkgames.com/ [📖](backlink-guide.md#820-fat-shark-games-forums-forumsfatsharkgamescom) | Gaming | Profile link | Nofollow | Y |
+| https://designershitdocumentary.com/community/ [📖](backlink-guide.md#821-designer-shit-documentary-community-designershitdocumentarycomcommunity) | Medicine | Profile link | Nofollow | Y |
+| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) | General | Profile link | Nofollow | Y |
+| https://helpfulgardener.com/forum/ [📖](backlink-guide.md#823-helpful-gardener-forum-helpfulgardenercomforum) | Gardening | Profile link | Dofollow | Y |
+| https://forums.musicplayer.com/ [📖](backlink-guide.md#824-music-player-forums-forumsmusicplayercom) | Music | Profile link | Nofollow | Y |
+| https://pink-jobs.com/ [📖](backlink-guide.md#825-pink-jobs-pink-jobscom) | General | Profile link | Dofollow | Y |
+| https://master-land.net/ [📖](backlink-guide.md#826-master-land-master-landnet) | Developers | Profile link | Nofollow | Y |
+| https://fediverse.blog/ [📖](backlink-guide.md#827-fediverse-blog-fediverseblog) | General | Profile link | Dofollow | Y |
+| https://diychatroom.com/ [📖](backlink-guide.md#828-diy-chatroom-diychatroomcom) | Construction | Profile link | Nofollow | Y |
+| https://ifish.net/ [📖](backlink-guide.md#829-ifish-ifishnet) | Fishing | Profile link | Dofollow | Y |
+| https://forum.lexulous.com/ [📖](backlink-guide.md#830-lexulous-forum-forumlexulouscom) | Gaming | Profile link | Nofollow | Y |
+| https://quesanswer.com/ [📖](backlink-guide.md#831-quesanswer-quesanswercom) | General | Profile link | Dofollow | Y |
+| https://digitalhome.ca/ [📖](backlink-guide.md#832-digitalhomeca-digitalhomeca) | Consumer Electronic | Profile link | Nofollow | Y |
+| https://ruqqus.com/ [📖](backlink-guide.md#833-ruqqus-ruqquscom) | General | Profile link | Dofollow | Y |
+| https://hobbytalk.com/ [📖](backlink-guide.md#834-hobbytalk-hobbytalkcom) | General | Profile link | Nofollow | Y |
+| https://chazhound.com/index.php [📖](backlink-guide.md#835-chazhound-chazhoundcomindexphp) | Pet | Profile link | Dofollow | Y |
+| https://techist.com/forums/ [📖](backlink-guide.md#836-techist-forums-techistcomforums) | Technology | Profile link | Nofollow | Y |
+| http://unicyclist.com/ [📖](backlink-guide.md#837-unicyclist-unicyclistcom) | General | Profile link | Nofollow | Y |
+| https://small-business-forum.net/ [📖](backlink-guide.md#838-small-business-forum-small-business-forumnet) | Business | Profile link | Nofollow | Y |
+| https://filesharingtalk.com/forum.php [📖](backlink-guide.md#839-filesharingtalk-filesharingtalkcomforumphp) | General | Profile link | Dofollow | Y |
+| http://gostartups.in/ [📖](backlink-guide.md#840-gostartups-gostartupsin) | General | Profile link | Dofollow | Y |
+| https://mytradezone.com/ [📖](backlink-guide.md#841-mytradezone-mytradezonecom) | Finance | Profile link | Dofollow | Y |
+| https://homeone.com.au/ [📖](backlink-guide.md#842-homeone-australia-homeonecomau) | Architecture | Profile link | Dofollow | Y |
+| https://republic.com/ [📖](backlink-guide.md#843-republic-republiccom) | General | Profile link | Nofollow | Y |
+| https://worldseafishing.com/ [📖](backlink-guide.md#844-world-sea-fishing-worldseafishingcom) | Fishing | Profile link | Nofollow | Y |
+| https://thegreatapps.com/ [📖](backlink-guide.md#845-the-great-apps-thegreatappscom) | Mobile App | Profile link | Nofollow | Y |
+| https://solaceandthecity.com/community/ [📖](backlink-guide.md#846-solace-and-the-city-solaceandthecitycomcommunity) | General | Profile link | Nofollow | Y |
+| http://dreevoo.com/ [📖](backlink-guide.md#847-dreevoo-dreevoocom) | General | Profile link | Dofollow | Y |
+| https://den.yt/ [📖](backlink-guide.md#848-denyt-denyt) | General | Profile link | Nofollow | Y |
+| http://arcforums.com/forums/air/index.php [📖](backlink-guide.md#849-arc-forums-arcforumscomforumsairindexphp) | General | Profile link | Dofollow | Y |
+| https://retrobike.co.uk/forums/ [📖](backlink-guide.md#850-retrobike-forums-retrobikecoukforums) | Sports | Profile link | Nofollow | Y |
+| https://painttalk.com/ [📖](backlink-guide.md#851-painttalk-painttalkcom) | Art | Profile link | Dofollow | Y |
+| https://rpgwatch.com/ [📖](backlink-guide.md#852-rpgwatch-rpgwatchcom) | Gaming | Profile link | Nofollow | Y |
+| https://classicalguitardelcamp.com/index.php [📖](backlink-guide.md#853-classical-guitar-delcamp-classicalguitardelcampcomindexphp) | Music | Profile link | Dofollow | Y |
+| https://historum.com/ [📖](backlink-guide.md#854-historum-historumcom) | Education | Profile link | Dofollow | Y |
+| https://lamborghini-talk.com/ [📖](backlink-guide.md#855-lamborghini-talk-lamborghini-talkcom) | Automobile | Profile link | Nofollow | Y |
+| https://groupdiy.com/ [📖](backlink-guide.md#856-groupdiy-groupdiycom) | Music | Profile link | Nofollow | Y |
+| http://forum.cad.pl/ [📖](backlink-guide.md#857-cadpl-forum-forumcadpl) | Art | Profile link | Nofollow | Y |
+| https://forum.esk8.news/ [📖](backlink-guide.md#858-esk8-forum-forumesk8news) | General | Profile link | Nofollow | Y |
+| https://community.guitartalk.co.za/ [📖](backlink-guide.md#859-guitar-talk-south-africa-communityguitartalkcoza) | Music | Profile link | Nofollow | Y |
+| http://www.mrleffsclass.com/forum/member.php [📖](backlink-guide.md#860-mr-leffs-class-forum-mrleffsclasscomforummemberphp) | Education | Profile link | Dofollow | Y |
+| http://geekgirlsnightout.com/ [📖](backlink-guide.md#861-geek-girls-night-out-geekgirlsnightoutcom) | General | Profile link | Nofollow | Y |
+| https://miastogier.pl/ [📖](backlink-guide.md#862-miasto-gier-miastogierpl) | Gaming | Profile link | Nofollow | Y |
+| http://soccergaming.com/index.php [📖](backlink-guide.md#863-soccergaming-soccergamingcomindexphp) | Gaming | Profile link | Nofollow | Y |
+| https://forums.homecomingservers.com/ [📖](backlink-guide.md#864-homecoming-servers-forums-forumshomecomingserverscom) | Gaming | Profile link | Nofollow | Y |
+| http://modelcarsmag.com/forums/ [📖](backlink-guide.md#865-model-cars-magazine-forums-modelcarsmagcomforums) | Scale Model | Profile link | Dofollow | Y |
+| https://clubsnap.com/ [📖](backlink-guide.md#866-clubsnap-clubsnapcom) | Photography | Profile link | Dofollow | Y |
+| https://answersmode.com/ [📖](backlink-guide.md#867-answersmode-answersmodecom) | General | Profile link | Nofollow | Y |
+| https://forum.bassbuzz.com/ [📖](backlink-guide.md#868-bassbuzz-forum-forumbassbuzzcom) | Music | Profile link | Dofollow | Y |
+| https://jeparticipe.ville-montlouis-loire.fr/ [📖](backlink-guide.md#869-montlouis-participation-jeparticipeville-montlouis-loirefr) | General | Profile link | Dofollow | Y |
+| https://forum.mp3store.pl/ [📖](backlink-guide.md#870-mp3store-forum-forummp3storepl) | Music | Profile link | Nofollow | Y |
+| https://forum.kvinneguiden.no/ [📖](backlink-guide.md#871-kvinneguiden-forum-forumkvinneguidenno) | General | Profile link | Nofollow | Y |
+| https://math10.com/forum/ [📖](backlink-guide.md#872-math10-forum-math10comforum) | Science | Profile link | Nofollow | Y |
+| https://speakev.com/ [📖](backlink-guide.md#873-speakev-speakevcom) | Automobile | Profile link | Nofollow | Y |
+| https://respuestas.trabber.com/ [📖](backlink-guide.md#874-trabber-respuestas-respuestastrabbercom) | Travel | Profile link | Nofollow | Y |
+| https://qutee.com/ [📖](backlink-guide.md#875-qutee-quteecom) | General | Profile link | Nofollow | Y |
+| https://goodnightjournal.com/ [📖](backlink-guide.md#876-goodnight-journal-goodnightjournalcom) | General | Profile link | Dofollow | Y |
+| https://openphotographyforums.com/forums/ [📖](backlink-guide.md#877-open-photography-forums-openphotographyforumscomforums) | Photography | Profile link | Nofollow | Y |
+| https://admin-talk.com/ [📖](backlink-guide.md#878-admin-talk-admin-talkcom) | Business | Profile link | Dofollow | Y |
+| https://mixwebup.com/ [📖](backlink-guide.md#879-mixwebup-mixwebupcom) | General | Profile link | Nofollow | Y |
+| http://www.kiripo.com/forum/index.php [📖](backlink-guide.md#880-kiripo-forum-kiripocomforumindexphp) | General | Profile link | Dofollow | Y |
+| https://video.antopie.org/ [📖](backlink-guide.md#881-video-antopie-videoantopieorg) | General | Profile link | Dofollow | Y |
+| https://diymobileaudio.com/ [📖](backlink-guide.md#882-diy-mobile-audio-diymobileaudiocom) | Automobile | Profile link | Nofollow | Y |
+| https://talkphotography.co.uk/ [📖](backlink-guide.md#883-talk-photography-talkphotographycouk) | Photography | Profile link | Dofollow | Y |
+| https://shuttertalk.com/forums/ [📖](backlink-guide.md#884-shuttertalk-forums-shuttertalkcomforums) | Photography | Profile link | Dofollow | Y |
+| https://jobs.windomnews.com/ [📖](backlink-guide.md#885-windom-news-jobs-jobswindomnewscom) | General | Profile link | Dofollow | Y |
+| https://jobs.calgeo.org/ [📖](backlink-guide.md#886-calgeo-jobs-jobscalgeoorg) | General | Profile link | Dofollow | Y |
+| http://customerpolicedepartment.com/ [📖](backlink-guide.md#887-customer-police-department-customerpolicedepartmentcom) | General | Profile link | Nofollow | Y |
+| https://pinoygamer.ph/ [📖](backlink-guide.md#888-pinoygamer-pinoygamerph) | Gaming | Profile link | Nofollow | Y |
+| https://forum.leasehackr.com/ [📖](backlink-guide.md#889-leasehackr-forum-forumleasehackrcom) | Automobile | Profile link | Nofollow | Y |
+| https://vault.mle.party/ [📖](backlink-guide.md#890-vault-mle-party-vaultmleparty) | General | Profile link | Dofollow | Y |
+| https://germancarforum.com/ [📖](backlink-guide.md#891-german-car-forum-germancarforumcom) | Automobile | Profile link | Nofollow | Y |
+| https://ps5forum.com/ [📖](backlink-guide.md#892-ps5-forum-ps5forumcom) | Gaming | Profile link | Dofollow | Y |
+| https://community.forumpromotion.net/ [📖](backlink-guide.md#893-forum-promotion-community-communityforumpromotionnet) | Marketing | Profile link | Nofollow | Y |
+| https://video.hardlimit.com/ [📖](backlink-guide.md#894-video-hardlimit-videohardlimitcom) | Gaming | Profile link | Dofollow | Y |
+| https://together.lovefromyours.com/ [📖](backlink-guide.md#895-together-love-from-yours-togetherlovefromyourscom) | General | Profile link | Nofollow | Y |
+| https://letsdiskuss.com/ [📖](backlink-guide.md#896-letsdiskuss-letsdiskusscom) | General | Profile link | Nofollow | Y |
+| https://chemicalforums.com/ [📖](backlink-guide.md#897-chemical-forums-chemicalforumscom) | Science | Profile link | Dofollow | Y |
+| https://themoneyshed.co.uk/ [📖](backlink-guide.md#898-the-money-shed-themoneyshedcouk) | Business | Profile link | Nofollow | Y |
+| https://businessforum.uk/ [📖](backlink-guide.md#899-business-forum-uk-businessforumuk) | Business | Profile link | Nofollow | Y |
+| http://evosolution.net/Forum/member.php [📖](backlink-guide.md#900-evosolution-forum-evosolutionnetforummemberphp) | General | Profile link | Dofollow | Y |
+| https://video.omniatv.com/ [📖](backlink-guide.md#901-video-omniatv-videoomniatvcom) | General | Profile link | Dofollow | Y |
+| https://community.benetalk.com/ [📖](backlink-guide.md#902-benetalk-community-communitybenetalkcom) | General | Profile link | Nofollow | Y |
+| https://mmorpg.org.pl/ [📖](backlink-guide.md#903-mmorpgorgpl-mmorpgorgpl) | Gaming | Profile link | Nofollow | Y |
+| https://routerforums.com/ [📖](backlink-guide.md#904-router-forums-routerforumscom) | General | Profile link | Nofollow | Y |
+| https://krita-artists.org/ [📖](backlink-guide.md#905-krita-artists-krita-artistsorg) | Art | Profile link | Nofollow | Y |
+| https://martialtalk.com/ [📖](backlink-guide.md#906-martial-talk-martialtalkcom) | Sports | Profile link | Nofollow | Y |
+| https://getdpi.com/forum/index.php [📖](backlink-guide.md#907-getdpi-forum-getdpicomforumindexphp) | Photography | Profile link | Nofollow | Y |
+| https://tube.p2p.legal/ [📖](backlink-guide.md#908-tube-p2p-legal-tubep2plegal) | General | Profile link | Dofollow | Y |
+| https://bizwarriors.com/ [📖](backlink-guide.md#909-bizwarriors-bizwarriorscom) | Business | Profile link | Nofollow | Y |
+| https://youdontneedwp.com/ [📖](backlink-guide.md#910-youdontneedwp-youdontneedwpcom) | General | Profile link | Dofollow | Y |
 | https://italcoholicmocktest.in/ [📖](backlink-guide.md#911-italcoholic-mock-test-italcoholicmocktestin) | General | Profile link | Nofollow | Y |
 | https://parentscollective.uable.com/ [📖](backlink-guide.md#912-parents-collective-parentscollectiveuablecom) | Education | Profile link | Nofollow | Y |
 | https://ask.zoptiks.com/ [📖](backlink-guide.md#913-ask-zoptiks-askzoptikscom) | General | Profile link | Nofollow | Y |
@@ -1262,7 +1262,7 @@
 | https://yarabook.com/ [📖](backlink-guide.md#553-yarabook-yarabookcom) | Social | Social | Dofollow | Y |
 | https://40billion.com/ [📖](backlink-guide.md#606-40billion-40billioncom) | Social | Social | Dofollow | Y |
 | https://www.topionetworks.com/ | Social | Social | Unknown | |
-| https://opendiary.com/ | Social | Social | Dofollow | Y |
+| https://opendiary.com/ [📖](backlink-guide.md#811-open-diary-opendiarycom) | Social | Social | Dofollow | Y |
 | https://stocktwits.com/ [📖](backlink-guide.md#270-stocktwits-stocktwitscom) | Social | Social | Nofollow | Y |
 
 ## Directory
@@ -1311,7 +1311,7 @@
 | https://www.webwiki.it/ | General | Review Sites | Unknown | |
 | https://www.webwiki.pt/ | General | Review Sites | Unknown | |
 | https://www.webwiki.co.uk/ | General | Review Sites | Unknown | |
-| https://completed.com/ | General | Review Sites | Nofollow | Y |
+| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) | General | Review Sites | Nofollow | Y |
 | https://yably.de/ | General | Review Sites | Unknown | |
 | http://bussola-pro.com/ | General | Review Sites | Unknown | |
 | https://toolfinder.co/ | SaaS | Review Sites | Unknown | |
@@ -1530,9 +1530,9 @@
 | https://doodlewash.com/ [📖](backlink-guide.md#758-doodlewash-doodlewashcom) | Art | Communities | Nofollow | Y |
 | http://worldswithoutend.com/ | General | Communities | Dofollow | Y |
 | https://fotografie.at/ [📖](backlink-guide.md#809-fotografieat-fotografieat) | Photography | Communities | Dofollow | Y |
-| https://ruqqus.com/ | General | Communities | Dofollow | Y |
-| http://forum.cad.pl/ | Art | Communities | Nofollow | Y |
-| https://forum.kvinneguiden.no/ | General | Communities | Nofollow | Y |
+| https://ruqqus.com/ [📖](backlink-guide.md#833-ruqqus-ruqquscom) | General | Communities | Dofollow | Y |
+| http://forum.cad.pl/ [📖](backlink-guide.md#857-cadpl-forum-forumcadpl) | Art | Communities | Nofollow | Y |
+| https://forum.kvinneguiden.no/ [📖](backlink-guide.md#871-kvinneguiden-forum-forumkvinneguidenno) | General | Communities | Nofollow | Y |
 | https://painterfactory.com/ [📖](backlink-guide.md#952-painter-factory-painterfactorycom) | Art | Communities | Dofollow | Y |
 | https://animeforums.net/ [📖](backlink-guide.md#1070-anime-forums-animeforumsnet) | Anime | Communities | Nofollow | Y |
 | https://artforum.online/ [📖](backlink-guide.md#1116-art-forum-online-artforumonline) | Art | Communities | Dofollow | Y |
@@ -1746,4 +1746,4 @@
 | https://www.ulule.com/ [📖](backlink-guide.md#166-ulule-ululecom) | General | Crowdfunding | Dofollow | Y |
 | https://seedandspark.com/ [📖](backlink-guide.md#307-seedspark-seedandsparkcom) | General | Crowdfunding | Dofollow | Y |
 | https://startupxplore.com/ | General | Crowdfunding | Dofollow | Y |
-| https://republic.com/ | General | Crowdfunding | Nofollow | Y |
+| https://republic.com/ [📖](backlink-guide.md#843-republic-republiccom) | General | Crowdfunding | Nofollow | Y |
