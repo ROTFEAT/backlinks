@@ -32670,3 +32670,168 @@ URL 缩短服务的 SEO 价值**非常有限**。Google 明确表示能识别短
 | Daily Infographic | https://dailyinfographic.com/submit | 免费 | SSL过期⚠️ |
 
 > \* 标注 Dofollow* 的建议用浏览器 Inspect Element 实际验证，链接属性可能随时变更。
+
+
+---
+
+# 附录二：第二轮 WebSearch 验证（2026-03-25，剩余 186 个网站）
+
+> 7 个并行 agent 对剩余全部目录类网站逐个 WebSearch 验证。
+
+## 新发现的已关闭/不可用网站
+
+| 网站 | 状态 | 说明 |
+|------|------|------|
+| USAOnlineClassifieds | nginx默认页 | 网站内容已下线 |
+| iHubbub | 301→游戏网站 | 域名已转售 |
+| AdSansar | 被赌博劫持 | RAJAJP303赌博内容 |
+| GBIBP | 被赌博劫持 | SERVER GACOR赌博内容 |
+| INNetAds | 转型hosting | 分类广告功能已不存在 |
+| PostZoo | 被劫持 | 变为中文短剧网站 |
+| GlobiAd | 域名待售 | HugeDomains $6,895 |
+| PostKarlo | 空壳WordPress | 仅"Hello world!"样本帖 |
+| LeslieClassified | 不存在 | 搜索零结果 |
+| FamilyAndLand | 被赌博劫持 | MAHAGACOR77赌博内容 |
+| CommonBazaar | 域名待售 | HugeDomains出售 |
+| Gezow | 被赌博劫持 | Ongkosbet赌博模板 |
+| AckLists | 域名停放 | JS重定向至/lander |
+| LetzDeal | 域名停放 | JS重定向至/lander |
+| KikList | 已废弃 | Lorem ipsum占位文本，2017年 |
+| SharedCoupon | 离线 | 无法连接 |
+| BootstrapPS | 被赌博劫持 | PG电子赌博内容 |
+| GetStartedHQ | 离线 | 搜索无结果 |
+| UpLabs | 2024年6月关闭 | 域名跳转至UP.Labs |
+| DesignerNews | 2024年2月关闭 | 域名出售中 |
+| Pixelation | 2023年归档 | 只读模式 |
+| Ruqqus | 2021年关闭 | 域名被无关站点占用 |
+| Forum.cad.pl | 已关闭 | 301→Helion图书销售 |
+| PainterFactory | 已关闭 | 301→Corel Painter支持 |
+| ArtForum.online | 可疑 | 仅FingerprintJS追踪脚本 |
+| Docracy | 2019年关闭 | 被eversign收购后下线 |
+| EasyZoom | 转型医疗 | PathZoom医疗软件 |
+| PhotoPeach | Flash失效 | 依赖Flash Player |
+| PicturePush | 取消免费 | 2013年起仅付费 |
+| Digg | 2026年3月关闭 | 机器人和AI爬虫问题 |
+| CodeProject | 只读模式 | 2024年10月转只读 |
+
+**总计：31 个网站已关闭/不可用**（加上第一轮的 12 个，累计 43 个）
+
+## Classified Ads 验证结果
+
+### 可用且有 SEO 价值的站点
+
+| 网站 | 提交入口 | DA | 链接属性 | 备注 |
+|------|----------|-----|----------|------|
+| **ClassifiedAds.com** | https://www.classifiedads.com/post.php | 62 | **Dofollow** | 无需注册，可插入链接 |
+| **JustLanded** | https://classifieds.justlanded.com/en/post | 75 | **Dofollow** | DA最高，面向外籍人士 |
+| **AdlandPro** | https://www.adlandpro.com/CreateAd.aspx | 49 | **Dofollow** | 1998年运营至今 |
+| **Global-Free-Classified-Ads** | https://www.global-free-classified-ads.com/register.php | 44 | **Dofollow** | 全球性，需注册 |
+| **FreeAd1** | https://freead1.net/post-free-ad | 43 | **Dofollow** | 无需注册，每天5条 |
+| **FreeGlobalClassifiedAds** | https://freeglobalclassifiedads.com/item/new | 30 | Dofollow | 付费$5可置顶 |
+| Hoobly | https://www.hoobly.com → Post Ad | 54 | Nofollow | 以宠物广告为主 |
+| FreeAdsTime | https://www.freeadstime.org/post_an_ad.html | 40 | Nofollow | 无需注册 |
+| WallClassifieds | https://www.wallclassifieds.com/post-a-free-ad.php | 26 | Nofollow | 30000+城市 |
+| GreatClassified | https://greatclassified.com | — | Nofollow | 即时通过 |
+| LetsPostFree | https://letspostfree.com | — | Nofollow | 自2005年运营 |
+| AdfreePosting | https://adfreeposting.com/en | — | Nofollow | 覆盖全球 |
+
+### 不可用/不推荐（完整列表见上方"已关闭"表）
+
+USNetAds 网络整体崩坏（hot-web-ads/canetads/ukadslist/aunetads/innetads），大量印度小站被劫持或废弃。
+
+## Communities 验证结果
+
+### 高价值可用站点
+
+| 网站 | 注册入口 | 外链方法 | 链接属性 | 备注 |
+|------|----------|----------|----------|------|
+| **Meetup** | https://www.meetup.com/register/ | Profile+活动描述 | **Dofollow** | 支持自定义锚文本 |
+| **F6S** | https://www.f6s.com/ | 公司Profile | **Dofollow** (DA72) | 58万+创始人 |
+| **Sony Community** | Sony Account登录 | Profile | **Dofollow** (DA91) | 高权重 |
+| **SelfGrowth** | https://www.selfgrowth.com/user/register | 文章投稿+Bio | 可能Dofollow (DA70+) | 需Trusted Author |
+| **GrowthHackers** | https://community.growthhackers.com/ | 公司Profile | **Dofollow** | 申请制4万+成员 |
+| **Stack Overflow/SE** | 各站/users/signup | Profile Website | **2000+声望Dofollow** | 门槛高但价值极高 |
+| Fark | https://www.fark.com/signup | 提交链接+评论 | Nofollow | 编辑审核制 |
+| Quora | https://www.quora.com/ | 回答+Bio | Nofollow | 流量价值大 |
+| HN | https://news.ycombinator.com/login | Show HN+About | Nofollow→首页Dofollow | 极难上首页 |
+| WebDesignerNews | https://webdesignernews.com | 提交文章 | Nofollow | 无需注册 |
+| 3DPrintBoard | https://3dprintboard.com/register.php | Profile+签名 | Nofollow | vBulletin论坛 |
+| NYGunForum | https://nygunforum.com/register/ | Profile+签名 | Nofollow | 极活跃 |
+| AnimeForums | https://animeforums.net/register/ | Profile+签名 | Nofollow | 138K+帖子 |
+| Kvinneguiden | https://forum.kvinneguiden.no/register/ | Profile+帖子 | Nofollow | 挪威最大女性社区 |
+| UniLang | https://forum.unilang.org/ucp.php?mode=register | Profile+签名 | Nofollow | 多语言学习 |
+| Meneame | https://www.meneame.net/register | 提交链接 | Nofollow | 西语Reddit |
+| TranslatorsCafe | https://www.translatorscafe.com/cafe/RegistrationAccept.asp | Profile | Nofollow | 翻译行业 |
+| BlackPlanet | https://blackplanet.com/onboarding/step1 | Profile | Nofollow | 3-5分钟注册 |
+
+## File Upload 验证结果
+
+### Dofollow 站点（经验证）
+
+| 网站 | 提交入口 | DA | 备注 |
+|------|----------|-----|------|
+| **Calameo** | https://www.calameo.com/ | 91 | 翻页杂志，最佳选择 |
+| **4shared** | https://www.4shared.com/signup.jsp | 90 | 免费15GB |
+| **ReadTheDocs** | https://app.readthedocs.org/ | 89 | 需GitHub仓库 |
+| **Wakelet** | https://wakelet.com/ | 75 | 内容策展 |
+| **edocr** | https://www.edocr.com/account/create | 74 | 自2007年运营 |
+| **aNotepad** | https://anotepad.com/ | 55 | 无需注册，最简单 |
+| **Gifyu** | https://gifyu.com/upload | 45 | 图片专用 |
+| **SlideHTML5** | http://slidehtml5.com/ | — | PPT转HTML5，内置SEO |
+| **PDFSlide** | https://pdfslide.us/login | — | PDF文档分享 |
+| **Mobissue** | https://mobissue.com/login.php | — | 翻页电子书（有水印） |
+| **Netboard.me** | https://netboard.me/ | — | 教育平台 |
+
+### Nofollow 但高 DA 有价值的
+
+| 网站 | 提交入口 | DA |
+|------|----------|-----|
+| SlideShare | https://www.slideshare.net/upload | 95 |
+| Emaze | https://www.emaze.com/ | 86 |
+| Padlet | https://padlet.com/auth/signup | 82 |
+| SpeakerDeck | https://speakerdeck.com/signup | 80 |
+| PowerShow | https://www.powershow.com/user/signup | — |
+
+## Coupon 验证结果
+
+### 可用且有明确提交入口的（18个）
+
+| 网站 | 提交入口 |
+|------|----------|
+| CouponChief | https://couponchief.com/coupons/submit |
+| DontPayFull | 注册后→Submit an offer |
+| CouponBirds | https://couponbirds.com/submit-coupon |
+| ReeCoupons | https://reecoupons.com/submit-coupon |
+| MyCoupons | https://mycoupons.com/submit-a-coupon（支持批量） |
+| eDealInfo | https://edealinfo.com/submit-deal.php |
+| GetsCoupon | https://getscoupon.com/submit_a_coupon |
+| ValidCoupons | https://validcoupons.net/i/add/ |
+| CouponX | https://couponx.com/submit-coupon |
+| Voucher.Ninja | https://voucher.ninja/submit-coupon/ |
+| CouponSlasher | https://couponslasher.com/share-coupon/ |
+| Rebajas.Guru | https://rebajas.guru/cupon/ |
+| CouponScored | https://couponscored.com/submit-coupon/ |
+| EuaCupones | https://euacupones.net → Anadir una oferta |
+| Dealigg | https://dealigg.com/submit.php |
+| Dealspotr | 登录→Post a Deal |
+| SlickDeals | 登录→Post a Deal（禁止商家自发） |
+| RedFlagDeals | Hot Deals版块→Post New Thread |
+
+> 几乎全部 Nofollow。Coupon 类网站的 SEO 价值主要在于品牌引用和流量，非直接权重传递。
+
+## 验证覆盖率最终统计
+
+| 分类 | 总数 | 已验证 | 覆盖率 |
+|------|------|--------|--------|
+| Product Launch | 39 | 39 | 100% |
+| Review Sites | 42 | 42 | 100% |
+| Crowdfunding | 6 | 6 | 100% |
+| Deals | 24 | 24 | 100% |
+| Coupon | 29 | 29 | 100% |
+| Press Release | 22 | 22 | 100% |
+| Article Submission | 20 | 20 | 100% |
+| File Upload | 40 | 40 | 100% |
+| Infographic | 9 | 9 | 100% |
+| Communities | 49 | 49 | 100% |
+| Classified Ads | 54 | 54 | 100% |
+| **合计** | **334** | **334** | **100%** |
