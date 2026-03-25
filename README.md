@@ -46,15 +46,15 @@
 | https://pexels.com/ [📖](backlink-guide.md#31-pexels-pexelscom) | General | Profile link | Nofollow | Y |
 | https://www.deviantart.com/ [📖](backlink-guide.md#32-deviantart-deviantartcom) | Art | Profile link | Dofollow | Y |
 | https://giphy.com/ [📖](backlink-guide.md#33-giphy-giphycom) | General | Profile link | Dofollow | Y |
-| https://www.theverge.com/ [📖](backlink-guide.md#34-the-verge-thevergecom) | Technology | Profile link | Nofollow | Y |
-| https://sourceforge.net/ [📖](backlink-guide.md#35-sourceforge-sourceforgenet) | Developers | Profile link | Dofollow | Y |
+| https://www.theverge.com/ [📖](backlink-guide.md#34-the-verge-thevergecom) ⚠️不可见 | Technology | Profile link | Nofollow | Y |
+| https://sourceforge.net/ [📖](backlink-guide.md#35-sourceforge-sourceforgenet) ⚠️不可见 | Developers | Profile link | Dofollow | Y |
 | https://imgur.com/ [📖](backlink-guide.md#36-imgur-imgurcom) | General | Profile link | Dofollow | Y |
-| https://ted.com/ [📖](backlink-guide.md#37-ted-tedcom) | General | Profile link | Nofollow | Y |
+| https://ted.com/ [📖](backlink-guide.md#37-ted-tedcom) ⚠️不可见 | General | Profile link | Nofollow | Y |
 | https://kickstarter.com/ [📖](backlink-guide.md#38-kickstarter-kickstartercom) | General | Profile link | Unknown | |
-| https://change.org/ [📖](backlink-guide.md#39-changeorg-changeorg) | General | Profile link | Nofollow | Y |
+| https://change.org/ [📖](backlink-guide.md#39-changeorg-changeorg) ⚠️不可见 | General | Profile link | Nofollow | Y |
 | https://linktr.ee/ [📖](backlink-guide.md#40-linktree-linktree) | General | Profile link | Dofollow | Y |
 | https://gitlab.com/ [📖](backlink-guide.md#41-gitlab-gitlabcom) | Developers | Profile link | Nofollow | Y |
-| https://calameo.com/ [📖](backlink-guide.md#42-calameo-calameocom) | General | Profile link | Dofollow | Y |
+| https://calameo.com/ [📖](backlink-guide.md#42-calameo-calameocom) ⚠️不可见 | General | Profile link | Dofollow | Y |
 | https://meetup.com/ [📖](backlink-guide.md#43-meetup-meetupcom) | General | Profile link | Unknown | |
 | https://codepen.io/ [📖](backlink-guide.md#44-codepen-codepenio) | Developers | Profile link | Nofollow | Y |
 | https://moz.com/ [📖](backlink-guide.md#45-moz-mozcom) | Business | Profile link | Unknown | |
@@ -72,13 +72,13 @@
 | https://upwork.com/ [📖](backlink-guide.md#57-upwork-upworkcom) | General | Profile link | Dofollow | Y |
 | https://discogs.com/ [📖](backlink-guide.md#58-discogs-discogscom) | General | Profile link | Nofollow | Y |
 | https://www.buzzfeed.com/ [📖](backlink-guide.md#59-buzzfeed-buzzfeedcom) | General | Profile link | Dofollow | Y |
-| https://www.vox.com/ [📖](backlink-guide.md#60-vox-voxcom) | General | Profile link | Dofollow | Y |
-| https://academia.edu/ [📖](backlink-guide.md#61-academiaedu-academiaedu) | Education | Profile link | Nofollow | Y |
-| https://coursera.org/ [📖](backlink-guide.md#62-coursera-courseraorg) | Education | Profile link | Nofollow | Y |
+| https://www.vox.com/ [📖](backlink-guide.md#60-vox-voxcom) ⚠️不可见 | General | Profile link | Dofollow | Y |
+| https://academia.edu/ [📖](backlink-guide.md#61-academiaedu-academiaedu) ⚠️不可见 | Education | Profile link | Nofollow | Y |
+| https://coursera.org/ [📖](backlink-guide.md#62-coursera-courseraorg) ⚠️不可见 | Education | Profile link | Nofollow | Y |
 | https://last.fm/ [📖](backlink-guide.md#63-lastfm-lastfm) | Music | Profile link | Unknown | |
 | https://artstation.com/ [📖](backlink-guide.md#64-artstation-artstationcom) | Art | Profile link | Dofollow | Y |
 | https://envato.com/ [📖](backlink-guide.md#65-envato-envatocom) | Design | Profile link | Unknown | |
-| https://evernote.com/ [📖](backlink-guide.md#66-evernote-evernotecom) | General | Profile link | Dofollow | Y |
+| https://evernote.com/ [📖](backlink-guide.md#66-evernote-evernotecom) ⚠️不可见 | General | Profile link | Dofollow | Y |
 | https://mixcloud.com/ [📖](backlink-guide.md#67-mixcloud-mixcloudcom) | Music | Profile link | Nofollow | Y |
 | https://redbubble.com/ [📖](backlink-guide.md#68-redbubble-redbubblecom) | Design | Profile link | Dofollow | Y |
 | https://alexa.com/ [📖](backlink-guide.md#69-alexa-alexacom) | General | Profile link | Nofollow | Y |
@@ -98,14 +98,14 @@
 | https://answers.unity.com/index.html [📖](backlink-guide.md#82-unity-answers-answersunitycom) | Information Technology | Profile link | Nofollow | Y |
 | https://loop.frontiersin.org/ [📖](backlink-guide.md#83-frontiers-loop-loopfrontiersinorg) | General | Profile link | Dofollow | Y |
 | https://bloglovin.com/ [📖](backlink-guide.md#84-bloglovin-bloglovincom) | General | Profile link | Dofollow | Y |
-| https://netvibes.com/ [📖](backlink-guide.md#85-netvibes-netvibescom) | General | Profile link | Dofollow | Y |
+| https://netvibes.com/ [📖](backlink-guide.md#85-netvibes-netvibescom) ⚠️不可见 | General | Profile link | Dofollow | Y |
 | https://gitbook.com/ [📖](backlink-guide.md#86-gitbook-gitbookcom) | General | Profile link | Dofollow | Y |
 | https://forums.botanicalgarden.ubc.ca/ [📖](backlink-guide.md#87-ubc-botanical-garden-forums-forumsbotanicalgardenubcca) | Gardening | Profile link | Dofollow | Y |
 | https://zazzle.com/ [📖](backlink-guide.md#88-zazzle-zazzlecom) | General | Profile link | Dofollow | Y |
 | https://sketchfab.com/ [📖](backlink-guide.md#89-sketchfab-sketchfabcom) | General | Profile link | Nofollow | Y |
-| https://peatix.com/ [📖](backlink-guide.md#90-peatix-peatixcom) | General | Profile link | Dofollow | Y |
+| https://peatix.com/ [📖](backlink-guide.md#90-peatix-peatixcom) ⚠️不可见 | General | Profile link | Dofollow | Y |
 | https://spreaker.com/ [📖](backlink-guide.md#91-spreaker-spreakercom) | Podcast | Profile link | Nofollow | Y |
-| https://forum.unity.com/ [📖](backlink-guide.md#92-unity-forum-forumunitycom) | Developers | Profile link | Nofollow | Y |
+| https://forum.unity.com/ [📖](backlink-guide.md#92-unity-forum-forumunitycom) ⚠️不可见 | Developers | Profile link | Nofollow | Y |
 | https://gitlab.gnome.org/ [📖](backlink-guide.md#93-gnome-gitlab-gitlabgnomeorg) | Developers | Profile link | Nofollow | Y |
 | https://forum.videolan.org/ [📖](backlink-guide.md#94-videolan-forum-forumvideolanorg) | General | Profile link | Dofollow | Y |
 | http://mcdonaldauto.ning.com/ [📖](backlink-guide.md#95-mcdonald-auto-ning-mcdonaldautoningcom) ❌ | General | Profile link | Dofollow | Y |
@@ -119,7 +119,7 @@
 | https://mediapost.com/ [📖](backlink-guide.md#103-mediapost-mediapostcom) | General | Profile link | Dofollow | Y |
 | https://us.community.sony.com/ [📖](backlink-guide.md#104-sony-community-uscommunitysonycom) | General | Profile link | Dofollow | Y |
 | https://community.mybb.com/ [📖](backlink-guide.md#105-mybb-community-communitymybbcom) | General | Profile link | Dofollow | Y |
-| https://seekingalpha.com/ [📖](backlink-guide.md#106-seeking-alpha-seekingalphacom) | Trading | Profile link | Nofollow | Y |
+| https://seekingalpha.com/ [📖](backlink-guide.md#106-seeking-alpha-seekingalphacom) ⚠️不可见 | Trading | Profile link | Nofollow | Y |
 | https://arduino.cc/ [📖](backlink-guide.md#107-arduino-arduinocc) | Developers | Profile link | Dofollow | Y |
 | https://habr.com/ [📖](backlink-guide.md#108-habr-habrcom) | General | Profile link | Nofollow | Y |
 | https://weezevent.com/ [📖](backlink-guide.md#109-weezevent-weezeventcom) | General | Profile link | Dofollow | Y |
@@ -826,7 +826,7 @@
 | https://woodworkforums.com/ [📖](backlink-guide.md#819-woodwork-forums-woodworkforumscom) | General | Profile link | Nofollow | Y |
 | https://forums.fatsharkgames.com/ [📖](backlink-guide.md#820-fat-shark-games-forums-forumsfatsharkgamescom) | Gaming | Profile link | Nofollow | Y |
 | https://designershitdocumentary.com/community/ [📖](backlink-guide.md#821-designer-shit-documentary-community-designershitdocumentarycomcommunity) ❌ | Medicine | Profile link | Nofollow | Y |
-| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) | General | Profile link | Nofollow | Y |
+| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) ⚠️不可见 | General | Profile link | Nofollow | Y |
 | https://helpfulgardener.com/forum/ [📖](backlink-guide.md#823-helpful-gardener-forum-helpfulgardenercomforum) ❌ | Gardening | Profile link | Dofollow | Y |
 | https://forums.musicplayer.com/ [📖](backlink-guide.md#824-music-player-forums-forumsmusicplayercom) | Music | Profile link | Nofollow | Y |
 | https://pink-jobs.com/ [📖](backlink-guide.md#825-pink-jobs-pink-jobscom) | General | Profile link | Dofollow | Y |
@@ -1311,7 +1311,7 @@
 | https://www.webwiki.it/ | General | Review Sites | Unknown | |
 | https://www.webwiki.pt/ | General | Review Sites | Unknown | |
 | https://www.webwiki.co.uk/ | General | Review Sites | Unknown | |
-| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) | General | Review Sites | Nofollow | Y |
+| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) ⚠️不可见 | General | Review Sites | Nofollow | Y |
 | https://yably.de/ | General | Review Sites | Unknown | |
 | http://bussola-pro.com/ | General | Review Sites | Unknown | |
 | https://toolfinder.co/ | SaaS | Review Sites | Unknown | |
@@ -1411,7 +1411,7 @@
 | https://saasmantra.com/ | SaaS | Deals | Unknown | |
 | https://www.edealinfo.com/ | General | Deals | Unknown | |
 | https://www.getscoupon.com/ | General | Deals | Unknown | |
-| https://deals.sourceforge.net/ | SaaS | Deals | Unknown | |
+| https://deals.sourceforge.net/ ⚠️不可见 | SaaS | Deals | Unknown | |
 | https://www.dealigg.com/ | General | Deals | Unknown | |
 | https://ukads.org/ [📖](backlink-guide.md#154-ukads-ukadsorg) | General | Deals | Dofollow | Y |
 | https://www.bootstrapps.com/ | SaaS | Deals | Unknown | |
@@ -1567,7 +1567,7 @@
 | https://storeboard.com/ [📖](backlink-guide.md#389-storeboard-storeboardcom) | General | Article Submission | Dofollow | Y |
 | https://sooperarticles.com/ [📖](backlink-guide.md#580-sooperarticles-sooperarticlescom) | General | Article Submission | Nofollow | Y |
 | https://www.launchora.com/ | General | Article Submission | Dofollow | Y |
-| http://www.articleted.com/ | General | Article Submission | Dofollow | Y |
+| http://www.articleted.com/ ⚠️不可见 | General | Article Submission | Dofollow | Y |
 | https://telescope.ac/ [📖](backlink-guide.md#752-telescopeac-telescopeac) | General | Article Submission | Nofollow | Y |
 | http://www.articles.gappoo.com/ | General | Article Submission | Dofollow | Y |
 | https://blog.shopolop.com/ | General | Article Submission | Nofollow | Y |
@@ -1595,7 +1595,7 @@
 |------|------|------|----------|----------|
 | https://slideshare.net/ | General | File Upload | Dofollow | Y |
 | https://flaticon.com/ | Design | File Upload | Unknown | |
-| https://calameo.com/ [📖](backlink-guide.md#42-calameo-calameocom) | General | File Upload | Dofollow | Y |
+| https://calameo.com/ [📖](backlink-guide.md#42-calameo-calameocom) ⚠️不可见 | General | File Upload | Dofollow | Y |
 | https://www.flipsnack.com/ | General | File Upload | Dofollow | Y |
 | https://smugmug.com/ | General | File Upload | Dofollow | Y |
 | https://readthedocs.org/ [📖](backlink-guide.md#81-read-the-docs-readthedocsorg) | General | File Upload | Nofollow | Y |
@@ -1819,7 +1819,7 @@
 
 | 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
 |------|------|------|----------|----------|
-| https://qwoted.com/ | PR | 记者专家匹配(DR73) | Nofollow | |
+| https://qwoted.com/ ⚠️不可见 | PR | 记者专家匹配(DR73) | Nofollow | |
 
 ## Startup Directory 补充
 
