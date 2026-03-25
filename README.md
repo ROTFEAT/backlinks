@@ -1747,3 +1747,32 @@
 | https://seedandspark.com/ [📖](backlink-guide.md#307-seedspark-seedandsparkcom) | General | Crowdfunding | Dofollow | Y |
 | https://startupxplore.com/ | General | Crowdfunding | Dofollow | Y |
 | https://republic.com/ [📖](backlink-guide.md#843-republic-republiccom) | General | Crowdfunding | Nofollow | Y |
+
+## Product Launch - 新增 (2026-03 发现)
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://devhunt.org/ | Developer | Product Launch | Dofollow | |
+| https://openhunts.com/ | General | Product Launch | Dofollow | Y |
+| https://microlaunch.net/ | SaaS | Product Launch | Dofollow | |
+| https://www.tinylaunch.com/ | General | Product Launch | Dofollow | |
+| https://open-launch.com/ | General | Product Launch | Dofollow | |
+| https://launchigniter.com/ | General | Product Launch | Nofollow | |
+| https://peerlist.io/ | Developer | Product Launch | Nofollow | |
+| https://topstartups.io/ | Startup | Product Launch | Unknown | |
+| https://index.co/ | Startup | Product Launch | Unknown | |
+| https://crozdesk.com/ | SaaS | Product Launch | Dofollow | |
+| https://www.crunchbase.com/ | Startup | Review/Database | Dofollow | |
+| https://www.saasmag.com/ | SaaS | Guest Post | Dofollow | |
+
+## AI Tool Directory - 新增分类
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://theresanaiforthat.com/ | AI | AI Directory | Nofollow | |
+| https://www.futurepedia.io/ | AI | AI Directory | Dofollow | |
+| https://www.toolpilot.ai/ | AI | AI Directory | Unknown | |
+| https://aitoolsdirectory.com/ | AI | AI Directory | Unknown | |
+| https://topai.tools/ | AI | AI Directory | Dofollow | |
+| https://www.aidirectory.org/ | AI | AI Directory | Unknown | |
+| https://www.rundown.ai/submit | AI | AI Directory | Unknown | |
