@@ -32698,7 +32698,7 @@ URL 缩短服务的 SEO 价值**非常有限**。Google 明确表示能识别短
 | LetzDeal | 域名停放 | JS重定向至/lander |
 | KikList | 已废弃 | Lorem ipsum占位文本，2017年 |
 | SharedCoupon | 离线 | 无法连接 |
-| BootstrapPS | 被赌博劫持 | PG电子赌博内容 |
+| BootstrapPS | .com 被劫持，.co 在线 | bootstrapps.co 是 SaaS 客服外包官网（$999/月），非产品提交目录，原始分类错误 |
 | GetStartedHQ | 离线 | 搜索无结果 |
 | UpLabs | 2024年6月关闭 | 域名跳转至UP.Labs |
 | DesignerNews | 2024年2月关闭 | 域名出售中 |
