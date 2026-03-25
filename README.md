@@ -1776,3 +1776,54 @@
 | https://topai.tools/ | AI | AI Directory | Dofollow | |
 | https://www.aidirectory.org/ | AI | AI Directory | Unknown | |
 | https://www.rundown.ai/submit | AI | AI Directory | Unknown | |
+
+## Software Alternatives 软件替代品目录
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://alternative.me/ | Software | 软件替代品比较 | Unknown | |
+| https://sitelike.org/ | Software | 相似网站查找 | Unknown | |
+
+## AI Tool Directory - 补充
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://aitools.inc/ | AI | AI工具目录 | Unknown | |
+| https://futuretools.io/ | AI | AI工具目录(Future Tools) | Unknown | |
+| https://toolsfine.com/ | AI | AI工具精选 | Unknown | |
+| https://news.bensbites.com/ | AI | Ben's Bites AI Newsletter目录 | Unknown | |
+| https://bai.tools/ | AI | AI工具目录 | Unknown | |
+| https://twelvetools.com/ | Productivity | 生产力工具目录(DR80) | Dofollow | |
+| https://toolsdirectoryonline.com/ | Tools | 工具目录 | Unknown | |
+
+## Podcast Directory 播客目录 - 新增分类
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://podcasts.apple.com/ | Podcast | Apple Podcasts | Unknown | |
+| https://podcasters.spotify.com/ | Podcast | Spotify for Podcasters | Unknown | |
+| https://podbean.com/ | Podcast | 播客托管+目录 | Unknown | |
+| https://podchaser.com/ | Podcast | 播客数据库 | Unknown | |
+| https://listennotes.com/ | Podcast | 播客搜索引擎 | Unknown | |
+| https://player.fm/ | Podcast | 播客目录 | Unknown | |
+| https://castbox.fm/ | Podcast | 播客目录 | Unknown | |
+
+## Wiki / Knowledge 知识平台
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://fandom.com/ | Wiki | Wiki平台(DA95) | Nofollow | |
+| https://miraheze.org/ | Wiki | 免费Wiki托管 | Unknown | |
+
+## PR / Media 媒体关系
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://qwoted.com/ | PR | 记者专家匹配(DR73) | Nofollow | |
+
+## Startup Directory 补充
+
+| 网站 | 类型 | 详情 | 链接类型 | 即时审核 |
+|------|------|------|----------|----------|
+| https://killerstartups.com/ | Startup | 创业评测 | Unknown | |
+| https://10015.io/ | Startup | 创业工具目录(DR50) | Unknown | |
