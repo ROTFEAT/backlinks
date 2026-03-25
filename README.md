@@ -67,7 +67,7 @@
 | https://forum.filezilla-project.org/ [📖](backlink-guide.md#52-filezilla-forum-forumfilezilla-projectorg) | Software | Profile link | Dofollow | Y |
 | https://marketplace.whmcs.com/ [📖](backlink-guide.md#53-whmcs-marketplace-marketplacewhmcscom) | Hosting | Profile link | Dofollow | Y |
 | https://forum.waypoint.vice.com/ [📖](backlink-guide.md#54-waypoint-vice-forum-forumwaypointvicecom) ❌ | General | Profile link | Dofollow | Y |
-| http://setiweb.ssl.berkeley.edu/ [📖](backlink-guide.md#55-setihome-setiwebsslberkeleyedu) ❌ | General | Profile link | Dofollow | Y |
+| http://setiweb.ssl.berkeley.edu/ [📖](backlink-guide.md#55-setihome-setiwebsslberkeleyedu) | General | Profile link | Dofollow | Y |
 | https://000webhost.com/forum/ [📖](backlink-guide.md#56-000webhost-forum-000webhostcomforum) | Hosting | Profile link | Nofollow | Y |
 | https://upwork.com/ [📖](backlink-guide.md#57-upwork-upworkcom) | General | Profile link | Dofollow | Y |
 | https://discogs.com/ [📖](backlink-guide.md#58-discogs-discogscom) | General | Profile link | Nofollow | Y |
@@ -266,7 +266,7 @@
 | https://talent.hubstaff.com/ [📖](backlink-guide.md#260-hubstaff-talent-talenthubstaffcom) | General | Profile link | Nofollow | Y |
 | https://forum.elster.de/ [📖](backlink-guide.md#261-elster-forum-forumelsterde) | General | Profile link | Dofollow | Y |
 | https://activerain.com/ [📖](backlink-guide.md#262-activerain-activeraincom) | Real Estate | Profile link | Nofollow | Y |
-| https://community.cbr.com/ [📖](backlink-guide.md#263-cbr-community-communitycbrcom) ❌ | Books | Profile link | Dofollow | Y |
+| https://community.cbr.com/ [📖](backlink-guide.md#263-cbr-community-communitycbrcom) | Books | Profile link | Dofollow | Y |
 | https://repl.it/ | Developer | Profile link | Dofollow | Y |
 | https://forums.bulbagarden.net/index.php [📖](backlink-guide.md#265-bulbagarden-forums-forumsbulbagardennetindexphp) | Gaming | Profile link | Nofollow | Y |
 | https://community.tubebuddy.com/index.php [📖](backlink-guide.md#266-tubebuddy-community-communitytubebuddycomindexphp) | General | Profile link | Nofollow | Y |
@@ -485,7 +485,7 @@
 | https://travellerspoint.com/ [📖](backlink-guide.md#479-travellerspoint-travellerspointcom) | Travel | Profile link | Dofollow | Y |
 | https://theloop.com.au/ [📖](backlink-guide.md#480-the-loop-australia-theloopcomau) ❌ | Design | Profile link | Dofollow | Y |
 | https://zintro.com/ [📖](backlink-guide.md#481-zintro-zintrocom) | General | Profile link | Dofollow | Y |
-| https://www.kdpcommunity.com/s/ [📖](backlink-guide.md#482-kdp-community-kdpcommunitycom) ❌ | Books | Profile link | Dofollow | Y |
+| https://www.kdpcommunity.com/s/ [📖](backlink-guide.md#482-kdp-community-kdpcommunitycom) | Books | Profile link | Dofollow | Y |
 | https://forums.prsguitars.com/ [📖](backlink-guide.md#483-prs-guitars-forums-forumsprsguitarscom) | Music | Profile link | Nofollow | Y |
 | https://whmcs.community/ [📖](backlink-guide.md#484-whmcs-community-whmcscommunity) ❌ | Developer | Profile link | Nofollow | Y |
 | https://forums.afterdawn.com/ [📖](backlink-guide.md#485-afterdawn-forums-forumsafterdawncom) | Consumer Electronic | Profile link | Nofollow | Y |
@@ -519,7 +519,7 @@
 | https://www.bitsdujour.com/ [📖](backlink-guide.md#513-bitsdujour-bitsdujourcom) | Software | Profile link | Dofollow | Y |
 | https://diydrones.com/ [📖](backlink-guide.md#514-diy-drones-diydronescom) | General | Profile link | Dofollow | Y |
 | http://mappery.com/ [📖](backlink-guide.md#515-mappery-mapperycom) | General | Profile link | Dofollow | Y |
-| https://hackathon.io/ [📖](backlink-guide.md#516-hackathonio-hackathonio) ❌ | General | Profile link | Dofollow | Y |
+| https://hackathon.io/ [📖](backlink-guide.md#516-hackathonio-hackathonio) | General | Profile link | Dofollow | Y |
 | https://tribalpages.com/ [📖](backlink-guide.md#517-tribalpages-tribalpagescom) | General | Profile link | Nofollow | Y |
 | https://www.startus.cc/ [📖](backlink-guide.md#518-startus-startuscc) ❌ | Startup | Profile link | Nofollow | Y |
 | https://www.techsite.io/ [📖](backlink-guide.md#519-techsiteio-techsiteio) ❌ | Technology | Profile link | Dofollow | Y |
@@ -826,7 +826,7 @@
 | https://woodworkforums.com/ [📖](backlink-guide.md#819-woodwork-forums-woodworkforumscom) | General | Profile link | Nofollow | Y |
 | https://forums.fatsharkgames.com/ [📖](backlink-guide.md#820-fat-shark-games-forums-forumsfatsharkgamescom) | Gaming | Profile link | Nofollow | Y |
 | https://designershitdocumentary.com/community/ [📖](backlink-guide.md#821-designer-shit-documentary-community-designershitdocumentarycomcommunity) ❌ | Medicine | Profile link | Nofollow | Y |
-| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) ❌ | General | Profile link | Nofollow | Y |
+| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) | General | Profile link | Nofollow | Y |
 | https://helpfulgardener.com/forum/ [📖](backlink-guide.md#823-helpful-gardener-forum-helpfulgardenercomforum) ❌ | Gardening | Profile link | Dofollow | Y |
 | https://forums.musicplayer.com/ [📖](backlink-guide.md#824-music-player-forums-forumsmusicplayercom) | Music | Profile link | Nofollow | Y |
 | https://pink-jobs.com/ [📖](backlink-guide.md#825-pink-jobs-pink-jobscom) | General | Profile link | Dofollow | Y |
@@ -1311,7 +1311,7 @@
 | https://www.webwiki.it/ | General | Review Sites | Unknown | |
 | https://www.webwiki.pt/ | General | Review Sites | Unknown | |
 | https://www.webwiki.co.uk/ | General | Review Sites | Unknown | |
-| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) ❌ | General | Review Sites | Nofollow | Y |
+| https://completed.com/ [📖](backlink-guide.md#822-completedcom-completedcom) | General | Review Sites | Nofollow | Y |
 | https://yably.de/ | General | Review Sites | Unknown | |
 | http://bussola-pro.com/ | General | Review Sites | Unknown | |
 | https://toolfinder.co/ | SaaS | Review Sites | Unknown | |
