@@ -847,25 +847,37 @@ Google 搜索 `site:blogspot.com "visit my website"` 可找到大量案例
 
 ## 57. G2 (g2.com)
 
-**DA**: 92 | **费用**: 免费（基础版） | **类型**: 软件评价
+**DA**: 92 | **费用**: 免费（基础版） | **类型**: B2B 软件评测/采购平台
 
 ### 可用方法
 
 | 方法 | 入口 | 链接属性 | SEO价值 |
 |------|------|----------|---------|
-| 产品页面链接 | seller.g2.com → 添加产品 → 官网URL | Nofollow | 高（SaaS） |
+| 产品资料页链接 | G2 Create a Profile → 提交产品申请 | Nofollow | 高（SaaS/B2B） |
 
 ### 操作步骤
 
-1. 访问 https://seller.g2.com
-2. 添加/认领软件产品页面
-3. 填写产品官网 URL
-4. 需审核（仅限软件/SaaS 产品）
+1. **创建产品资料页**：从 G2 的 Create a Profile 入口提交产品/服务申请表
+2. **等待初审**：提交后进入 "conditionally approved" 状态，G2 研究团队核验产品并归类，约 **3-5 个工作日**
+3. **认领 Profile**：资料页上线后，进入 my.G2 认领该 listing，G2 团队做最终审核，约 **1-3 个工作日**
+4. **完善产品信息**：
+   - my.G2 → Product Profile → Product Information：上传 Logo、Grid Logo、Banner、Banner 视频，填写产品介绍（概述最多 500 字）
+   - my.G2 → Product Information → Packages & Pricing：补套餐、价格、是否提供免费试用，可上传 PDF 价目表
+5. **引导客户留评**：开始引导真实客户在 G2 上留评
+
+### 收录规则
+
+- **仅收录 B2B 软件或服务**，纯 B2C 产品不收
+- 同一产品的不同 edition/tier 一般不拆成多个独立 profile
+- 分类按**产品功能**，不按使用人群或行业
+- 资料页名称应与官网产品名一致，**不要额外加关键词、宣传语或商标符号**
+- **Alpha/Beta 阶段产品不接受**
 
 ### Tips
 
-- 仅限软件/SaaS 产品
-- G2 页面 Google 排名很好，品牌 SERP 价值高
+- G2 页面在 Google 搜索中排名极好，品牌 SERP 占位价值很高
+- 没填价格时，买家会看到"未提供此信息"的提示，建议补全
+- 评论数量和评分直接影响 G2 Grid 排名和 Google 展示的星级
 
 ## 58-95. 其他点评平台
 
